@@ -1,0 +1,5 @@
+logs/*
+.env
+# вдруг если это будет проектом по nodejs
+node_modules/*
+
